@@ -1,0 +1,10 @@
+[package]
+name = "audio-vis"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0"
+crossterm = "0.25"
+ratatui = "0.20"
+rodio = "0.17"
